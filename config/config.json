@@ -1,0 +1,46 @@
+{
+  "width": 1003,
+  "height": 564,
+  "parent": "window.document.body",
+  "images": {
+    "animationImages": [
+      {
+        "imageName": "background",
+        "imageSrc": "./img/BG.png"
+      },
+      {
+        "imageName": "spinBTN",
+        "imageSrc": "./img/BTN_Spin.png"
+      },
+      {
+        "imageName": "symA",
+        "imageSrc": "./img/SYM1.png"
+      },
+      {
+        "imageName": "symB",
+        "imageSrc": "./img/SYM3.png"
+      },
+      {
+        "imageName": "symC",
+        "imageSrc": "./img/SYM5.png"
+      },
+      {
+        "imageName": "symA_b",
+        "imageSrc": "./img/SYM1-BLURRED.png"
+      },
+      {
+        "imageName": "symB_b",
+        "imageSrc": "./img/SYM3-BLURRED.png"
+      },
+      {
+        "imageName": "symC_b",
+        "imageSrc": "./img/SYM5-BLURRED.png"
+      },
+      {
+        "imageName": "arrow",
+        "imageSrc": "./img/arrow.png"
+      }
+    ]
+  },
+  "baseUrl": "http://localhost:8080"
+}

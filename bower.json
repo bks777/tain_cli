@@ -1,0 +1,26 @@
+{
+  "name": "slotPillar",
+  "homepage": "https://github.com/bks777/slotPillar",
+  "authors": [
+    "Konstantin Bokov <kastianchiik@gmail.com>"
+  ],
+  "description": "SDK for a slot games",
+  "main": "[./index.html, ./js/main.js]",
+  "keywords": [
+    "gambling"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "pixi.js": "pixi#^3.0.11",
+    "Proton": "proton#^2.1.0",
+    "tweenlite": "^1.11.5"
+  }
+}

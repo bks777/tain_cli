@@ -1,0 +1,1 @@
+{"version":3,"sources":["AppModel.js"],"names":[],"mappings":";;;;;;AAAA;;;;;;;;;;;;IAEqB,Q;;;AACjB,wBAAa;AAAA;;AAAA;AAEZ;;;;;kBAHgB,Q","file":"AppModel-compiled.js","sourcesContent":["import Model from '../core/Model';\n\nexport default class AppModel extends Model{\n    constructor(){\n        super();\n    }\n}"]}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["GameModel.js"],"names":[],"mappings":";;;;;;;;IAAqB,S,GACjB,qBAAa;AAAA;AAEZ,C;;kBAHgB,S","file":"GameModel-compiled.js","sourcesContent":["export default class GameModel{\n    constructor(){\n        \n    }\n}"]}
